@@ -1,2 +1,2 @@
-# alx-pre_course
-Let's do this! 
+
+How to be up to date in git
